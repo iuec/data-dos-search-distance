@@ -1,4 +1,4 @@
-# Integrated Urgent Care Reference Data Sets
+# Integrated Urgent Care Reference Datasets
 
 This repo is a temporary repo to store useful reference data to support the NHS Integrated Urgent Care system.
 
